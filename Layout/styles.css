@@ -1,0 +1,46 @@
+body {
+    background-color: #62695fc5;
+}
+
+.navbar {
+    background-color: #373639f0 ;
+}
+
+.navbar .navbar-brand {
+    margin-right: 0;
+}
+
+.navbar .heading {
+    font-size: 1.5rem;
+    color: white;
+    margin-left: 10px;
+}
+
+.placeholder {
+    background-color: #252729fe;
+    border-radius: 10px;
+}
+
+.placeholder.large {
+    height: 500px;
+}
+
+.placeholder.medium {
+    height: 200px;
+}
+
+.placeholder.x-large {
+    height: 150px;
+}
+
+.search-bar {
+    border-radius: 10px;
+    height: 50px;
+    background-color: #24292e;
+    color: #fff;
+    border: none;
+}
+
+.search-bar ::placeholder {
+    color: #fff;
+}

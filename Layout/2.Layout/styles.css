@@ -1,0 +1,28 @@
+.star-rating {
+    display: flex;
+  }
+  
+  .star-rating .fa-star {
+    font-size: 24px;
+    color: #ffdd00;
+  }
+  
+  .checked {
+    color: orange;
+  }
+  
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-check {
+    margin-bottom: 0.5rem;
+  }
+
+  label {
+    font-weight: bold;
+  }
+
+  .bg-light-gray {
+    background-color: whitesmoke;
+  }
